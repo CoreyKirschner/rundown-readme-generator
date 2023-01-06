@@ -1,7 +1,8 @@
-
-[Untitled_ Jan 6, 2023 2_16 AM.webm](https://user-images.githubusercontent.com/114973010/210984476-2d714717-cb9f-4f5f-941e-e49123516320.webm)
-
 # Rundown README Generator
+
+## Walkthrough video
+
+  https://drive.google.com/file/d/1d_5mVgYblbU7vrp1Q2E0ykPpymcTWGaX/view
 
 ## License
 
@@ -30,5 +31,3 @@
 # Questions
 
   For any questions, please feel free to reach out to me on GitHub(https://github.com/CoreyKirschner) or email me at coreykirscher@yahoo.com
-
-https://drive.google.com/file/d/1d_5mVgYblbU7vrp1Q2E0ykPpymcTWGaX/view
