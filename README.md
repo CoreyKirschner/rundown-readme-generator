@@ -6,7 +6,7 @@
 
 ## Description
   
-  This is a user-friendly interface of inputting project information with multiple templates to create a README for a project.
+  This is a user-friendly interface to input project information with multiple templates to create a README for your project.
   
 ## Installation
   
