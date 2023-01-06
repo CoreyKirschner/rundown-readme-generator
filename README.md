@@ -16,7 +16,7 @@
   
 ## Usage
   
-    In your terminal cd to the Develop folder of this project, run it in terminal using "node index.js", answer every question, and                after the last question is answered then a README should have been generated.
+   In your terminal cd to the Develop folder of this project, run it in terminal using "node index.js", answer every question, and                after the last question is answered then a README should have been generated.
   
 ## Contribution Guidelines
    
