@@ -6,25 +6,23 @@
 
 ## Description
   
-  This is a user-friendly interface to input project information with multiple templates to create a README for your project.
+  This is a command-line application that generates a professional README file for a project. It prompts the user for information about their project and then generates a Markdown file with the responses.
   
 ## Installation
   
-    1. Clone the repository
-    2. Open application
-    3. Direct yourself in the terminal to the Develop folder
+  To install the README Generator, clone the repository and run npm install in the project directory.
   
 ## Usage
   
-   In your terminal cd to the Develop folder of this project, run it in terminal using "node index.js", answer every question, and                after the last question is answered then a README should have been generated.
+   To use the README Generator, run the node index.js command in the project directory. The application will then prompt the user for information about their project. Once all the information has been entered, the README file will be generated in the project directory.
   
 ## Contribution Guidelines
    
-  You can fork the repository, create a branch, make changes and commit, push to the orignial branch, or create the pull request.
+  To contribute, you can fork the repository and create a new branch for your changes. Then, submit a pull request with a detailed description of your contribution.
   
 ## Running Tests
   
-  To run a test, type "node index.js" in your terminal to start answering questions for the README you would like to generate.
+  To run tests for the README Generator, run the npm test command in the project directory.
 
 # Questions
 
